@@ -1,1 +1,1 @@
-Second readme within a directory
+Collaboration: be up to date
